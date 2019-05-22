@@ -1,3 +1,3 @@
 # conflicts-and-branches
 
-Hi there, this is a readme file we're using to demonstrate Git flow.
+This is a README file. We're using it to learn Git Flow.
